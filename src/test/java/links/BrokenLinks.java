@@ -47,7 +47,6 @@ public class BrokenLinks {
 		System.out.println("Total Url "+elements.size());
 		System.out.println("Successful "+countSuccess);
 		System.out.println("Broken "+countBroken);
-		System.out.println("kiran");
 		driver.close();
 	}
 }
