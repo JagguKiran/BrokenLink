@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-26T23:03:44 IST" name="Suite" finished-at="2025-03-26T23:04:09 IST" duration-ms="24918">
+  <suite started-at="2025-03-26T23:38:10 IST" name="Suite" finished-at="2025-03-26T23:38:35 IST" duration-ms="24785">
     <groups>
     </groups>
-    <test started-at="2025-03-26T23:03:44 IST" name="Test1" finished-at="2025-03-26T23:04:09 IST" duration-ms="24918">
+    <test started-at="2025-03-26T23:38:10 IST" name="Test1" finished-at="2025-03-26T23:38:35 IST" duration-ms="24785">
       <class name="listener.LogoutApp">
-        <test-method signature="logout()[pri:0, instance:listener.LogoutApp@6b2ea799]" started-at="2025-03-26T23:04:02 IST" name="logout" finished-at="2025-03-26T23:04:09 IST" duration-ms="7693" status="PASS">
+        <test-method signature="logout()[pri:0, instance:listener.LogoutApp@6b2ea799]" started-at="2025-03-26T23:38:27 IST" name="logout" finished-at="2025-03-26T23:38:35 IST" duration-ms="7767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
       </class> <!-- listener.LogoutApp -->
       <class name="listener.OpenApp">
-        <test-method signature="openApp()[pri:0, instance:listener.OpenApp@51399530]" started-at="2025-03-26T23:03:53 IST" name="openApp" finished-at="2025-03-26T23:04:02 IST" duration-ms="8361" status="PASS">
+        <test-method signature="openApp()[pri:0, instance:listener.OpenApp@51399530]" started-at="2025-03-26T23:38:19 IST" name="openApp" finished-at="2025-03-26T23:38:27 IST" duration-ms="8047" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
       </class> <!-- listener.OpenApp -->
       <class name="listener.LoginApp">
-        <test-method signature="login()[pri:0, instance:listener.LoginApp@443118b0]" started-at="2025-03-26T23:03:45 IST" name="login" finished-at="2025-03-26T23:03:53 IST" duration-ms="8449" status="PASS">
+        <test-method signature="login()[pri:0, instance:listener.LoginApp@443118b0]" started-at="2025-03-26T23:38:10 IST" name="login" finished-at="2025-03-26T23:38:19 IST" duration-ms="8315" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
